@@ -28,3 +28,8 @@ Design Principles mini course from manuelzapata.com
 ### Interface Segregration (ISP)
 - Clients should not depend on unutilised methods
 - Intefaces should not have methods that we do not need
+
+## Abstraction is good too
+### Dependency Inversion (ISP)
+- High level modules should depend on abstractions
+- Abstractions should not depend on details
