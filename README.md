@@ -23,3 +23,8 @@ Design Principles mini course from manuelzapata.com
   - Override a method of the Father Class and do not write code
   - When the Son Class throw exceptions that Father Class can not handle
   - When the Son Class make incompatible one or more methods of the Father Class
+
+## Do not depend on what you do not need
+### Interface Segregration (ISP)
+- Clients should not depend on unutilised methods
+- Intefaces should not have methods that we do not need
